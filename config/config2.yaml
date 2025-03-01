@@ -1,3 +1,4 @@
 llm:
-  api_key: "YOUR_API_KEY"
-  model: "gpt-4-turbo-preview"  # or gpt-3.5-turbo-1106 / gpt-4-1106-preview
+  api_key: "sk-36f1e4fd00844220a6cebde72bb87afd"
+  api_base: "https://api.deepseek.ai/v1"
+  model: "deepseek-chat"  # or gpt-3.5-turbo-1106 / gpt-4-1106-preview
